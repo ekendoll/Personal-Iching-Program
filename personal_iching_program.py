@@ -33,8 +33,8 @@ io_data = {
         "primary_hexagram": [],
         "changing_lines": [],
         "secondary_hexagram": [],
-        "query_context": ""
-        "date_time:" ""
+        "query_context": "",
+        "date_time": ""
     }
 
 primary_hexagram = []
